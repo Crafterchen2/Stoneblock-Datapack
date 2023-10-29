@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "stoneblock:stoneworld_noise_settings",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "stoneblock:pure_stone"
+    }
+  }
+}
